@@ -1,0 +1,20 @@
+{
+  "name": "SchemeSahayak - National Government Scheme Navigator",
+  "short_name": "SchemeSahayak",
+  "description": "Verify eligibility, apply to Central and State government schemes, calculate financial subsidies, and chat with the AI Scheme Navigator.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#1e3a8a",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["government", "finance", "education", "productivity"]
+}
